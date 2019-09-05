@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace oop123132
 {
-    class MyList
+    class MyList<T>
     {
         private int _i;
         private object[] _objects;
